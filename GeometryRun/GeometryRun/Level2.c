@@ -188,9 +188,9 @@ void Update2(void)
 		Next = GS_Quit;
 		return;
 	}
-	if (KeyPressed[Key2] == TRUE)
+	if (KeyPressed[Key1] == TRUE)
 	{
-		Next = GS_L2;
+		Next = GS_L1;
 		return;
 	}
 

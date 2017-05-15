@@ -1,5 +1,15 @@
 System:Initialize
 GSM: Initialize
 GSM: Update
-Input:ESC
+Input:2
+GSM: Update
+Input:1
+GSM: Update
+Input:2
+GSM: Update
+Input:1
+GSM: Update
+Input:2
+GSM: Update
+Input:Forcing Shut Down
 System:Exit
