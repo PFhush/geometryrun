@@ -23,6 +23,7 @@ typedef struct{
 	Property t_Properties[MAXPROPERTIES];
 	float iniMinX, iniMaxX, iniMinY, iniMaxY, iniMinVx, iniMaxVx, iniMinVy, iniMaxVy, iniMinDir, iniMaxDir;
 }TimerProperties;
+// 此处结构体过大，应拆分
 
 typedef struct{
 	int flag;
