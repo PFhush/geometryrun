@@ -210,4 +210,5 @@ void Unload1(void)
 {
 	printf("Level1: Unload\n");
 	DestroyGameObjBaseList(&theBaseList);
+	printf ("aTry");
 }
